@@ -5,11 +5,12 @@ Welcome to my GitHub! I'm a passionate **Java Developer** with a strong foundati
 ---
 
 ## 💻 Tech Stack
-- **Languages:** Java, JavaScript, SQL
-- **Frameworks:** Spring Boot, Spring MVC, Spring Security, Hibernate (JPA)
-- **Frontend:** HTML5, CSS3, Angular, jQuery
+- **Languages & Frameworks:** Core Java, Spring Boot, Spring MVC, Spring Security 6, Spring Data JPA, REST APIs, JWT, Hibernate (ORM)
+- **Libraries & Tools:** Lombok, ModelMapper, Swagger UI, Postman, Git, GitHub
+- **Frontend:** Angular (basic), JQuery, HTML, CSS
 - **Database:** MySQL
-- **Tools & Platforms:** Git, GitHub, AWS Cloud9, Postman, VS Code, Eclipse
+- **Cloud Services:** AWS Cloud 9
+- **Other:** API Documentation (Swagger), JSON
 
 ---
 
