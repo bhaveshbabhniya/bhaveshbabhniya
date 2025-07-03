@@ -35,7 +35,7 @@ Stay tuned for more open-source contributions and personal projects! 🚀
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/bhavesh-babhniya-195535154/)
-- 📧 Email: babhniyabhavesh@gmail.com
+- 📧 Email: bhavesh.babhniya2096@gmail.com
 
 ---
 
